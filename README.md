@@ -147,7 +147,7 @@ Running a Basic Java Program
 
 Clone the repository:
 
-git clone https://github.com/Munwaar/Java--Code-Files-/
+git clone https://github.com/Munwaar/Java--Code-Files-
 
 Open the relevant program folder in your terminal.
 
